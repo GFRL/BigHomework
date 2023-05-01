@@ -1,0 +1,41 @@
+# ninja log v5
+2	856	7045519870883377	MineSweeping_autogen/timestamp	1a94c934e5f203d1
+2	856	7045519870883377	MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+2	856	7045519870883377	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/timestamp	1a94c934e5f203d1
+2	856	7045519870883377	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+867	2367	7045519887818717	CMakeFiles/MineSweeping.dir/MineSweeping_autogen/mocs_compilation.cpp.obj	36551b1441e1e574
+856	2489	7045519889029649	CMakeFiles/MineSweeping.dir/main.cpp.obj	362f75f2962b08f4
+7	839	7045520276537611	MineSweeping_autogen/timestamp	1a94c934e5f203d1
+7	839	7045520276537611	MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+7	839	7045520276537611	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/timestamp	1a94c934e5f203d1
+7	839	7045520276537611	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+849	2593	7045520296110102	CMakeFiles/MineSweeping.dir/main.cpp.obj	362f75f2962b08f4
+859	2599	7045520296187174	CMakeFiles/MineSweeping.dir/MineSweeping_autogen/mocs_compilation.cpp.obj	36551b1441e1e574
+5	354	7045520925630721	MineSweeping_autogen/timestamp	1a94c934e5f203d1
+5	354	7045520925630721	MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+5	354	7045520925630721	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/timestamp	1a94c934e5f203d1
+5	354	7045520925630721	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+357	1961	7045520941693865	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1961	2203	7045520944068918	MineSweeping.exe	9d1de8d4dbaeef46
+6	1096	7045626075083352	MineSweeping_autogen/timestamp	1a94c934e5f203d1
+6	1096	7045626075083352	MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+6	1096	7045626075083352	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/timestamp	1a94c934e5f203d1
+6	1096	7045626075083352	F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/MineSweeping_autogen/mocs_compilation.cpp	1a94c934e5f203d1
+1107	2937	7045626095397028	CMakeFiles/MineSweeping.dir/main.cpp.obj	362f75f2962b08f4
+1097	2945	7045626095464283	CMakeFiles/MineSweeping.dir/MineSweeping_autogen/mocs_compilation.cpp.obj	36551b1441e1e574
+1117	3047	7045626096487443	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+3048	3790	7045626103876840	MineSweeping.exe	9d1de8d4dbaeef46
+5	1906	7045628094404647	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1906	2192	7045628097225910	MineSweeping.exe	9d1de8d4dbaeef46
+5	1886	7045632393134556	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1887	2156	7045632395799593	MineSweeping.exe	9d1de8d4dbaeef46
+6	1876	7045635505926830	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1876	2141	7045635508583846	MineSweeping.exe	9d1de8d4dbaeef46
+6	1834	7045637337972222	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1834	2115	7045637340769044	MineSweeping.exe	9d1de8d4dbaeef46
+15	1850	7046189516566689	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1851	2136	7046189519434838	MineSweeping.exe	9d1de8d4dbaeef46
+5	1849	7046191232981643	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1849	2120	7046191235518009	MineSweeping.exe	9d1de8d4dbaeef46
+5	1790	7046191676428686	CMakeFiles/MineSweeping.dir/mainwindow.cpp.obj	8b419206f516f8fb
+1790	2061	7046191679149124	MineSweeping.exe	9d1de8d4dbaeef46
