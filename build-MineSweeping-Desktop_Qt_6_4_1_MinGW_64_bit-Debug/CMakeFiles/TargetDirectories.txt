@@ -1,9 +1,0 @@
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/MineSweeping.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/MineSweeping_autogen_timestamp_deps.dir
-F:/QT Project/build-MineSweeping-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/CMakeFiles/MineSweeping_autogen.dir
